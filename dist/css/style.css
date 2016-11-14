@@ -1,0 +1,17 @@
+.text-header{
+    width: 100%;
+    height: 60px;
+    float: left;
+    
+}
+.main{
+    width: 100%;
+    height: 10px;
+    text-align-last: center;
+    margin-top: 20px;
+    letter-spacing: 10px;
+    text-shadow: 2px;
+    text-indent: inherit;
+    font-size: 150%;
+    
+}
